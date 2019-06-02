@@ -6,3 +6,5 @@ which will allow me to better visualize changes that happen.
 2. Mother instructs her to go straight to Grandmother's. Red leaves.
 3. Red walks through the forest and encounters the wolf. He asks for a taste of the treats.
 4. Red says, "NO." and runs to her Grandmas.
+5. On the way, Red runs into her uncle, on his way back from visiting grandma.
+6. Red tells him about the wolf, and he says he'll find the wolf and "take care of him".
